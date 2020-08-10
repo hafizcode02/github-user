@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Favorite User</string>
+    <string name="find_username">Find Username</string>
+    <string name="name">Hafiz Caniago</string>
+    <string name="username">\@%s</string>
+    <string name="repository">%s Repositories</string>
+    <string name="followings">%s Following</string>
+    <string name="follower">%s Followers</string>
+    <string name="detail_user">Detail User</string>
+
+    <string name="work_in">Work in</string>
+    <string name="location">Location</string>
+
+    <string name="kosong">NULL</string>
+    <string name="separator">Separator</string>
+    <string name="count">Count</string>
+    <string name="following_no_space">Following</string>
+    <string name="follower_no_space">Followers</string>
+    <string name="repo_no_space">Repositories</string>
+
+    <string name="title_menu_favorite">Favorite</string>
+    <string name="title_menu_settings">Settings</string>
+    <string name="title_activity_settings">Activity Settings</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="daily_message">Let`s find your Favorite User on Github</string>
+</resources>

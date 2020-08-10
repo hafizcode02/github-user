@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Github Social</string>
+    <string name="find_username">Cari Username</string>
+    <string name="name">Hafiz Caniago</string>
+    <string name="username">\@%s</string>
+    <string name="repository">%s Repositori</string>
+    <string name="followings">%s Mengikuti</string>
+    <string name="follower">%s Pengikut</string>
+    <string name="detail_user">Detail User</string>
+
+    <string name="work_in">Bekerja di</string>
+    <string name="location">Lokasi</string>
+
+    <string name="kosong">NULL</string>
+    <string name="separator">Separator</string>
+    <string name="count">Count</string>
+    <string name="following_no_space">Mengikuti</string>
+    <string name="follower_no_space">Pengikut</string>
+    <string name="repo_no_space">Repositori</string>
+
+    <string name="title_menu_favorite">Favorit</string>
+    <string name="title_menu_settings">Pengaturan</string>
+    <string name="title_activity_settings">Pengaturan Aktivitas</string>
+    <string name="change_language_settings">Pengaturan Bahasa</string>
+    <string name="daily_message">Ayo temukan Pengguna Github Favoritmu di Github</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_favorite_users">No Favorite Users</string>
+</resources>
