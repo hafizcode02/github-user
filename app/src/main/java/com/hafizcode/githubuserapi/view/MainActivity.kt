@@ -1,17 +1,17 @@
 package com.hafizcode.githubuserapi.view
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.Menu
 import android.view.MenuItem
 import android.view.View
+import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.hafizcode.githubuserapi.R
-import com.hafizcode.githubuserapi.model.DataUsers
 import com.hafizcode.githubuserapi.adapter.ListDataUsersAdapter
+import com.hafizcode.githubuserapi.model.DataUsers
 import com.hafizcode.githubuserapi.viewModel.MainViewModel
 import kotlinx.android.synthetic.main.activity_main.*
 

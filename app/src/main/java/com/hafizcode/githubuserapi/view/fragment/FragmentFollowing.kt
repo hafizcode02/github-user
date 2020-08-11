@@ -1,19 +1,18 @@
 package com.hafizcode.githubuserapi.view.fragment
 
 import android.os.Bundle
-import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-
 import com.hafizcode.githubuserapi.R
+import com.hafizcode.githubuserapi.adapter.ListDataFollowingAdapter
 import com.hafizcode.githubuserapi.model.DataFollowing
 import com.hafizcode.githubuserapi.model.DataUsers
 import com.hafizcode.githubuserapi.viewModel.FollowingViewModel
-import com.hafizcode.githubuserapi.adapter.ListDataFollowingAdapter
 import kotlinx.android.synthetic.main.fragment_following.*
 
 /**

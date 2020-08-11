@@ -2,14 +2,13 @@ package com.hafizcode.githubuserapi.view
 
 import android.content.ContentValues
 import android.database.Cursor
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.hafizcode.githubuserapi.R
-import com.hafizcode.githubuserapi.model.DataUsers
 import com.hafizcode.githubuserapi.adapter.ViewPagerDetailAdapter
 import com.hafizcode.githubuserapi.database.DatabaseContract.UserFavoriteColumns.Companion.AVATAR
 import com.hafizcode.githubuserapi.database.DatabaseContract.UserFavoriteColumns.Companion.COMPANY
@@ -22,6 +21,7 @@ import com.hafizcode.githubuserapi.database.DatabaseContract.UserFavoriteColumns
 import com.hafizcode.githubuserapi.database.DatabaseContract.UserFavoriteColumns.Companion.REPOSITORY
 import com.hafizcode.githubuserapi.database.DatabaseContract.UserFavoriteColumns.Companion.USERNAME
 import com.hafizcode.githubuserapi.helper.QueryHelper
+import com.hafizcode.githubuserapi.model.DataUsers
 import kotlinx.android.synthetic.main.activity_detail.*
 
 class DetailActivity : AppCompatActivity(), View.OnClickListener {
