@@ -56,9 +56,6 @@ class SettingsActivity : AppCompatActivity(), View.OnClickListener {
             R.id.change_language -> {
                 val mIntent = Intent(Settings.ACTION_LOCALE_SETTINGS)
                 startActivity(mIntent)
-//                val bool =
-//                    alarmReceiver.isAlarmSet(applicationContext, AlarmReceiver.TYPE_REPEATING)
-//                Toast.makeText(applicationContext, bool.toString(), Toast.LENGTH_SHORT).show()
             }
         }
     }
