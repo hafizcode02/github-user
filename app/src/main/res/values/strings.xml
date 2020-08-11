@@ -25,7 +25,4 @@
     <string name="change_language_settings">Change Language Settings</string>
     <string name="daily_reminder">Daily Reminder</string>
     <string name="daily_message">Let`s find your Favorite User on Github</string>
-    <string name="appwidget_text">EXAMPLE</string>
-    <string name="add_widget">Add widget</string>
-    <string name="no_favorite_users">No Favorite Users</string>
 </resources>
