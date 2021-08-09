@@ -10,3 +10,7 @@ Dicoding Submission Final BFAA
 - [x] Daily reminder untuk kembali ke aplikasi yang berjalan pada pukul 09.00 AM. (Terpenuhi)
 - [x] Membuat module baru yang menampilkan daftar user favorite dengan menggunakan ContentProvider. (Terpenuhi)
 - [x] Mempertahankan semua fitur aplikasi dan komponen yang digunakan pada Submission 2. (Terpenuhi)
+
+## Link Submission Sebelumnya
+- [Submission 2](https://github.com/Hafizcode02/submission-github-user-api)
+- [Submission 1](https://github.com/Hafizcode02/submission-github-user)
