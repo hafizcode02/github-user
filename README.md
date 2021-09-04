@@ -1,4 +1,4 @@
-# Final-BFAA
+# Final-BFAA (Github User App)
 Dicoding Submission Final BFAA
 
 ## Features
